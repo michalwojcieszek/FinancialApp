@@ -1,0 +1,759 @@
+{
+  "users": [
+    {
+      "id": "2cc7",
+      "userData": {
+        "name": "Edyta",
+        "password": "12345",
+        "savingsGoal": "2000",
+        "income": "3500",
+        "currency": "PLN"
+      },
+      "expenses": {
+        "january": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "february": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "march": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "april": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "may": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "june": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "july": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "august": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "september": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "october": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "november": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ],
+        "december": [
+          {
+            "expenseId": "2024-01-22T15:16:15.857Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "16:16"
+            },
+            "category": "housing",
+            "cost": "600",
+            "description": "flat fees"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8147",
+      "userData": {
+        "name": "123456",
+        "password": "123456",
+        "savingsGoal": "1839.58",
+        "income": "3679.16",
+        "currency": "EUR"
+      },
+      "expenses": {
+        "january": [
+          {
+            "expenseId": "2024-01-23T19:14:33.354Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "20:14"
+            },
+            "category": "clothes",
+            "cost": "1.84",
+            "description": "2"
+          }
+        ],
+        "february": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:23:02.219Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:23"
+            },
+            "category": "medicines",
+            "cost": "459.89",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-23T22:32:23.485Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "23:32"
+            },
+            "category": "education",
+            "cost": "2.76",
+            "description": "5"
+          },
+          {
+            "expenseId": "2024-01-23T22:38:05.671Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "23:38"
+            },
+            "category": "education",
+            "cost": "1.84",
+            "description": "2"
+          },
+          {
+            "expenseId": "2024-01-23T23:32:26.326Z",
+            "addedOn": {
+              "date": "24.01.2024",
+              "time": "00:32"
+            },
+            "category": "insurance",
+            "cost": "5",
+            "description": "5"
+          }
+        ],
+        "march": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          }
+        ],
+        "april": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          }
+        ],
+        "may": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:23:02.219Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:23"
+            },
+            "category": "medicines",
+            "cost": "459.89",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-23T19:14:33.354Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "20:14"
+            },
+            "category": "clothes",
+            "cost": "1.84",
+            "description": "2"
+          },
+          {
+            "expenseId": "2024-01-23T23:32:26.326Z",
+            "addedOn": {
+              "date": "24.01.2024",
+              "time": "00:32"
+            },
+            "category": "insurance",
+            "cost": "5",
+            "description": "5"
+          }
+        ],
+        "june": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:23:02.219Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:23"
+            },
+            "category": "medicines",
+            "cost": "459.89",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:24:48.120Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:24"
+            },
+            "category": "medicines",
+            "cost": "229.95",
+            "description": ""
+          },
+          {
+            "expenseId": "2024-01-22T18:27:03.440Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "19:27"
+            },
+            "category": "food",
+            "cost": "3679.16",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-23T19:14:33.354Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "20:14"
+            },
+            "category": "clothes",
+            "cost": "1.84",
+            "description": "2"
+          },
+          {
+            "expenseId": "2024-01-23T23:32:26.326Z",
+            "addedOn": {
+              "date": "24.01.2024",
+              "time": "00:32"
+            },
+            "category": "insurance",
+            "cost": "5",
+            "description": "5"
+          }
+        ],
+        "july": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:23:02.219Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:23"
+            },
+            "category": "medicines",
+            "cost": "459.89",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:24:48.120Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:24"
+            },
+            "category": "medicines",
+            "cost": "229.95",
+            "description": ""
+          },
+          {
+            "expenseId": "2024-01-23T19:14:33.354Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "20:14"
+            },
+            "category": "clothes",
+            "cost": "1.84",
+            "description": "2"
+          },
+          {
+            "expenseId": "2024-01-23T23:32:26.326Z",
+            "addedOn": {
+              "date": "24.01.2024",
+              "time": "00:32"
+            },
+            "category": "insurance",
+            "cost": "5",
+            "description": "5"
+          }
+        ],
+        "august": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:23:02.219Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:23"
+            },
+            "category": "medicines",
+            "cost": "459.89",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:24:48.120Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:24"
+            },
+            "category": "medicines",
+            "cost": "229.95",
+            "description": ""
+          },
+          {
+            "expenseId": "2024-01-22T18:27:03.440Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "19:27"
+            },
+            "category": "food",
+            "cost": "3679.16",
+            "description": "a"
+          }
+        ],
+        "september": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:23:02.219Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:23"
+            },
+            "category": "medicines",
+            "cost": "459.89",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:24:48.120Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:24"
+            },
+            "category": "medicines",
+            "cost": "229.95",
+            "description": ""
+          },
+          {
+            "expenseId": "2024-01-22T18:27:03.440Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "19:27"
+            },
+            "category": "food",
+            "cost": "3679.16",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-23T19:14:33.354Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "20:14"
+            },
+            "category": "clothes",
+            "cost": "1.84",
+            "description": "2"
+          },
+          {
+            "expenseId": "2024-01-23T23:32:26.326Z",
+            "addedOn": {
+              "date": "24.01.2024",
+              "time": "00:32"
+            },
+            "category": "insurance",
+            "cost": "5",
+            "description": "5"
+          }
+        ],
+        "october": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:23:02.219Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:23"
+            },
+            "category": "medicines",
+            "cost": "459.89",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:24:48.120Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:24"
+            },
+            "category": "medicines",
+            "cost": "229.95",
+            "description": ""
+          },
+          {
+            "expenseId": "2024-01-22T18:27:03.440Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "19:27"
+            },
+            "category": "food",
+            "cost": "3679.16",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-23T10:23:45.312Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "11:23"
+            },
+            "category": "medicines",
+            "cost": "1.84",
+            "description": "2"
+          },
+          {
+            "expenseId": "2024-01-23T19:14:33.354Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "20:14"
+            },
+            "category": "clothes",
+            "cost": "1.84",
+            "description": "2"
+          },
+          {
+            "expenseId": "2024-01-23T23:32:26.326Z",
+            "addedOn": {
+              "date": "24.01.2024",
+              "time": "00:32"
+            },
+            "category": "insurance",
+            "cost": "5",
+            "description": "5"
+          }
+        ],
+        "november": [
+          {
+            "expenseId": "2024-01-22T16:24:48.120Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:24"
+            },
+            "category": "medicines",
+            "cost": "229.95",
+            "description": ""
+          },
+          {
+            "expenseId": "2024-01-23T19:14:33.354Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "20:14"
+            },
+            "category": "clothes",
+            "cost": "1.84",
+            "description": "2"
+          }
+        ],
+        "december": [
+          {
+            "expenseId": "2024-01-22T16:21:10.992Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:21"
+            },
+            "category": "education",
+            "cost": "919.79",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:23:02.219Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:23"
+            },
+            "category": "medicines",
+            "cost": "459.89",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-22T16:24:48.120Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "17:24"
+            },
+            "category": "medicines",
+            "cost": "229.95",
+            "description": ""
+          },
+          {
+            "expenseId": "2024-01-22T18:27:03.440Z",
+            "addedOn": {
+              "date": "22.01.2024",
+              "time": "19:27"
+            },
+            "category": "food",
+            "cost": "3679.16",
+            "description": "a"
+          },
+          {
+            "expenseId": "2024-01-23T19:14:33.354Z",
+            "addedOn": {
+              "date": "23.01.2024",
+              "time": "20:14"
+            },
+            "category": "clothes",
+            "cost": "1.84",
+            "description": "2"
+          },
+          {
+            "expenseId": "2024-01-23T23:32:26.326Z",
+            "addedOn": {
+              "date": "24.01.2024",
+              "time": "00:32"
+            },
+            "category": "insurance",
+            "cost": "5",
+            "description": "5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd24",
+      "userData": {
+        "name": "a2222222",
+        "password": "2222222",
+        "savingsGoal": "2",
+        "income": "2",
+        "currency": "USD"
+      },
+      "expenses": {
+        "january": [],
+        "february": [],
+        "march": [],
+        "april": [],
+        "may": [],
+        "june": [],
+        "july": [],
+        "august": [],
+        "september": [],
+        "october": [],
+        "november": [],
+        "december": []
+      }
+    },
+    {
+      "id": "aa46",
+      "userData": {
+        "name": "Jan",
+        "password": "123456",
+        "savingsGoal": "1000",
+        "income": "2000",
+        "currency": "USD"
+      },
+      "expenses": {
+        "january": [],
+        "february": [],
+        "march": [],
+        "april": [],
+        "may": [],
+        "june": [],
+        "july": [],
+        "august": [],
+        "september": [],
+        "october": [],
+        "november": [],
+        "december": []
+      }
+    },
+    {
+      "id": "d552",
+      "userData": {
+        "name": "abcdefdgdsdads",
+        "password": "123456",
+        "savingsGoal": "5",
+        "income": "10",
+        "currency": "USD"
+      },
+      "expenses": {
+        "january": [
+          {
+            "expenseId": "2024-01-30T16:17:57.186Z",
+            "addedOn": {
+              "date": "30.01.2024",
+              "time": "17:17"
+            },
+            "category": "medicines",
+            "cost": "5",
+            "description": "5"
+          }
+        ],
+        "february": [],
+        "march": [],
+        "april": [],
+        "may": [],
+        "june": [],
+        "july": [],
+        "august": [],
+        "september": [],
+        "october": [],
+        "november": [],
+        "december": []
+      }
+    }
+  ]
+}
