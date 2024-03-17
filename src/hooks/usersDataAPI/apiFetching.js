@@ -1,4 +1,5 @@
-export const URL_JSON_SERVER = "http://localhost:8000/users";
+export const URL_JSON_SERVER =
+  "https://render-json-server-4g8c.onrender.com/users";
 
 //GET all users
 export async function getAllUsers() {
