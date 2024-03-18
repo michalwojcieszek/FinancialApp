@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { useNavigate, useParams } from "react-router-dom";
 import toast from "react-hot-toast";
-import { HiArrowRightOnRectangle } from "react-icons/hi2";
+import { HiArrowRightOnRectangle, HiCurrencyDollar } from "react-icons/hi2";
 import ButtonWithEmojiDiv from "../ui/styledComponents/ButtonWithEmojiDiv";
 import { useGlobal } from "../contexts/GlobalContext";
 
@@ -14,11 +14,14 @@ const FlexHeaderDiv = styled.div`
 
 const FlexHeaderTextDiv = styled.div`
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
 `;
 
 const StyledHeader = styled.header`
   background: var(--gradient-default);
+  /* background: var(--gradient-default); */
   padding: 1rem 2rem;
   display: grid;
   align-items: center;
@@ -30,15 +33,18 @@ const StyledHeader = styled.header`
 `;
 
 const StyledH1 = styled.h1`
-  font-weight: 400;
+  font-weight: 500;
+  font-size: 2.6rem;
+  letter-spacing: 0.1rem;
   color: white;
-  font-size: 2.2rem;
-  letter-spacing: 0.4rem;
 `;
 
 const EmojiParagraph = styled.p`
-  font-size: 3.5rem;
+  font-size: 3.8rem;
   animation: move 6s infinite forwards;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   @keyframes move {
     0%,
@@ -58,14 +64,6 @@ const EmojiParagraph = styled.p`
       transform: translateY(2px);
     }
   }
-`;
-
-const StyledSubtitle = styled.p`
-  font-size: 1.4rem;
-  font-weight: 300;
-  color: white;
-  text-transform: uppercase;
-  letter-spacing: 0.3rem;
 `;
 
 const UserInfo = styled.div`
@@ -120,10 +118,11 @@ function Header() {
     <>
       <StyledHeader>
         <FlexHeaderDiv onClick={handleClickTitle}>
-          <EmojiParagraph>💸</EmojiParagraph>
           <FlexHeaderTextDiv>
+            <EmojiParagraph>
+              <HiCurrencyDollar style={{ color: "white" }} />
+            </EmojiParagraph>
             <StyledH1>BudgetMaster</StyledH1>
-            <StyledSubtitle>Mind your budget.</StyledSubtitle>
           </FlexHeaderTextDiv>
         </FlexHeaderDiv>
         <UserInfo>

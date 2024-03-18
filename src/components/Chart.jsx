@@ -3,6 +3,15 @@ import ChartContainerDiv from "../ui/styledComponents/ChartContainerDiv";
 import H3 from "../ui/styledComponents/H3";
 
 const colors = [
+  "#91a7ff",
+  "#4c6ef5",
+  "#3b5bdb",
+  "#9775fa",
+  "#7950f2",
+  "#5f3dc4",
+  "#f3d9fa",
+  "#be4bdb",
+  "#862e9c",
   "#a5d8ff",
   "#4dabf7",
   "#228be6",
@@ -20,13 +29,8 @@ const colors = [
   "#91a7ff",
   "#4c6ef5",
   "#3b5bdb",
-  "#9775fa",
-  "#7950f2",
-  "#5f3dc4",
-  "#f3d9fa",
-  "#be4bdb",
-  "#862e9c",
 ];
+
 // const roundedValue = parseFloat(value.toFixed(2));
 
 function Chart({ categoryCost }) {

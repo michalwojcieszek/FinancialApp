@@ -4,6 +4,7 @@ const GlobalStyles = createGlobalStyle`
 :root {
 /* COLORS https://yeun.github.io/open-color/*/
     /* Grey TEXT color */
+    --color-grey-000: #f8f9fa;
     --color-grey-100: #f1f3f5;
     --color-grey-200: #e9ecef;
     --color-grey-300: #dee2e6;
@@ -12,9 +13,9 @@ const GlobalStyles = createGlobalStyle`
 
     /* Blue */
     /* MAIN Color */
-    --color-blue-700: #1c7ed6;
-    --color-blue-500: #339af0;
-    --color-blue-400: #4dabf7;
+    --color-blue-700: #4263eb;
+    --color-blue-500: #4c6ef5;
+    --color-blue-400: #5c7cfa;
     --color-blue-000: #e7f5ff;
 
     /* RED */
@@ -33,8 +34,9 @@ const GlobalStyles = createGlobalStyle`
 
 
 /* GRADIENTS */
-    --gradient-default: linear-gradient(to right, #1c7ed6, #339af0);
-    --gradient-hover: linear-gradient(to right, #339af0, #4dabf7);
+    --gradient-default: linear-gradient(to right, #748ffc , #5c7cfa);
+    --gradient-hover: linear-gradient(to right, #4c6ef5, #4263eb);
+
 
     --gradient-red-default: linear-gradient(to right, #e03131, #fa5252);
     --gradient-red-hover: linear-gradient(to right, #f03e3e, #ff6b6b);

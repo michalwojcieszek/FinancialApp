@@ -34,7 +34,7 @@ function IncomeStats({
       )}
       {!isSavingsGoalAchieved && !isIncomeCrossed && (
         <p>
-          Your total savingsGoal this {period} despite crossing the limit:{" "}
+          Your total savings this {period} despite crossing the limit:{" "}
           <StatsSpan color={incomeColor}>
             {currency} {sumSaved.toFixed(2)}{" "}
           </StatsSpan>
