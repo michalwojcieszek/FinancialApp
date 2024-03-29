@@ -26,7 +26,7 @@ function SetIncomeLimit({ income, savingsGoal, id }) {
   return (
     <>
       <FormRow>
-        <H3>Set new income and savingsGoal</H3>
+        <H3>Set new income and savings goal</H3>
         <label>Set new monthly income</label>
         <Input
           type="number"
@@ -36,7 +36,7 @@ function SetIncomeLimit({ income, savingsGoal, id }) {
         />
       </FormRow>
       <FormRow>
-        <label>Set new savingsGoal of expenses</label>
+        <label>Set new savings goal</label>
         <Input
           type="number"
           size="large"
