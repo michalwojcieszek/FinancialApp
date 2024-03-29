@@ -14,6 +14,7 @@ const Section = styled.section`
   background-color: white;
   box-shadow: 0 0px 32px rgb(0, 0, 0, 0.07);
   border-radius: 10px;
+  margin: 2rem 0;
 `;
 
 export default Section;
