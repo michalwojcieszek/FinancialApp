@@ -121,7 +121,7 @@ function Header() {
           <FlexHeaderTextDiv>
             <EmojiParagraph>
               {/* <HiCurrencyDollar style={{ color: "white" }} /> */}
-              🪙
+              💰
             </EmojiParagraph>
             <StyledH1>BudgetMaster</StyledH1>
           </FlexHeaderTextDiv>
