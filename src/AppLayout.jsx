@@ -15,15 +15,13 @@ const StyledLayout = styled.div`
 `;
 
 const Main = styled.main`
-  /* width: 54rem; */
   max-width: 54rem;
   margin: auto;
   padding: 0 3rem;
   z-index: 999;
 
   @media (max-width: 540px) {
-    /* padding: 0 1rem; //Adjust padding for screens under 540px width */
-    max-width: 38rem;
+    max-width: 100%;
   }
 `;
 
