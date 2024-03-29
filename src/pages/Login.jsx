@@ -143,7 +143,7 @@ function Login() {
   }
 
   return (
-    <Section>
+    <Section type="auth">
       {ifUserHaveAccount ? (
         <>
           <H2>LOGGING IN</H2>

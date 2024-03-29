@@ -10,11 +10,16 @@ const Section = styled.section`
       margin: 2rem 0;
     `}
 
+  ${(props) =>
+    props.type === "auth" &&
+    css`
+      margin: 2rem 0;
+    `}
+
   padding: 2rem;
   background-color: white;
   box-shadow: 0 0px 32px rgb(0, 0, 0, 0.07);
   border-radius: 10px;
-  margin: 2rem 0;
 `;
 
 export default Section;
